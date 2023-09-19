@@ -1,4 +1,4 @@
-!<logo>(https://wepik.com/share/90338850-4202-4004-b043-24ad1b1a2f05?category_id=1845&category_name=Logos#rs=link)
+
 <h1 align="center">Hi 👋, I'm Seraj Ahamad</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
