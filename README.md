@@ -1,4 +1,4 @@
-![logo]("C:\WEB DEVELOPMENT\projects\banner.jpeg")
+![logo](banner.jpeg)
 <h1 align="center">Hi 👋, I'm Seraj Ahamad</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
